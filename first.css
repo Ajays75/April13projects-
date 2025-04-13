@@ -1,0 +1,38 @@
+h1{ color: rgb(18, 8, 27);
+    text-align: end;
+    text-align: left;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration: overline;
+    /* text-decoration: line-through;*/
+    text-transform: capitalize;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+h3{ color: red;
+    text-transform: lowercase;
+    text-transform: uppercase;
+    text-transform: capitalize;
+    font-size: 50px;
+    background-color: black;
+}
+p{
+    /* text-align: left;
+    text-align: right;
+    text-align: justify;
+    /* text-decoration: underline;
+    text-decoration: overline;
+    text-decoration: line-through; */
+    text-transform: capitalize;
+    font-size: 50px; 
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+
+   font-weight:100;
+}
+a{
+  text-decoration: none;  
+}
+
+ body{
+    background-color:yellow;
+ }

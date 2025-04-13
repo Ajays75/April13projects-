@@ -1,0 +1,90 @@
+.nav{
+
+    padding: 100px;
+}
+.navbar {
+
+
+    font-size: 20px;
+   
+
+
+    a {
+        color: black;
+        margin-left: 30px;
+        text-decoration: none;
+        text-transform: capitalize;
+        text-align: center;
+    }
+
+    #a1 {
+        margin-left: 700px;
+    }
+
+    .icon {
+        font-size: 30px;
+        color: red;
+        margin: 0px;
+    }
+
+    #icon1 {
+        margin-left: 300px;
+    }
+
+
+}
+
+.eat {
+    color: rgb(104, 74, 133);
+    margin-top: 30px;
+    font-size: 30px;
+    margin-left: 550px;
+}
+.cat{
+    width: 65px;
+    height: 65px;
+}
+
+.foody {
+    border-bottom: 1px solid rgb(141, 138, 133) ;
+  padding-left: 50px;
+    text-transform: capitalize;       
+    margin-top: 30px;
+    .feat{margin: 150px;
+    }
+}
+
+
+.conta {
+    max-width: 350px;
+    max-height: 350px;
+    margin: auto;
+    border: 1px solid #ddd;
+    padding: 0px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.1);
+    justify-content: center;
+     display: inline-block; 
+}
+    img{
+        
+            width: 100%;
+            /* border-radius: 10px; */
+        
+    }
+    a {
+        margin-top: 10px;
+         padding: 10px 20px;
+        text-decoration: none;
+        background-color: #ff9800;
+        color: white;
+        border-radius: 5px;
+    }
+
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0px;
+        padding: 5px;
+        /* text-align: center;
+        justify-content: end; */
+    }

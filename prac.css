@@ -1,0 +1,68 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+#conta {
+    #nav {
+        background-color: red;
+
+        a {
+            padding: 10px;
+            text-decoration: none;
+            text-transform: uppercase;
+        }
+
+        #home {
+            padding-left: 800px;
+        }
+
+
+        #name {
+            color: whitesmoke;
+            padding: 50px;
+            font-size: 50px;
+        }
+
+    }
+
+    #r1 {
+        padding-top: 100px;
+        padding-left: 100px;
+    }
+
+
+    #sec {
+         margin-top: 100px;
+         margin-left: 100px;
+         
+         #h2 {
+             text-transform: uppercase;
+            }
+            
+            #h1 {
+                text-transform: uppercase;
+                font-size: 50px;
+            }
+
+            #img{
+                padding-left: 850px;
+            #im {
+    
+            border: 15px double red;
+            width: 350px;
+            height: 350px;
+            border-radius: 100%;
+        }
+    }
+    }
+
+
+    }
+
+
+
+
+body {
+    background-color: yellow;
+}

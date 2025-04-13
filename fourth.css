@@ -1,0 +1,57 @@
+#card{
+    display: flex;
+    gap: 180px;
+    background-color: pink;
+}
+
+#n1{
+    text-decoration: underline;
+    text-transform: uppercase;
+    background-color: yellow;
+    text-align: center;
+}
+#card{
+#card1{
+    border: 3px solid blue;
+    border-radius: 25px;
+    width: 300px;
+#c1{
+    text-align: center;
+    background-color: red;
+    text-transform: uppercase;
+}
+#para1{
+    color: black;
+}
+
+}
+#im{
+    width: 300px;
+    height: 35%;
+}
+
+
+
+#card3{
+    border:3px solid blue;
+    border-radius: 25px;
+    width: 300px;
+#c3{
+    text-align: center;
+    background-color: red;
+    text-transform: uppercase;
+}
+
+}
+#im3{
+    width: 300px;
+    height: 35%;
+}
+#pa{
+    
+}
+}
+body{
+    background-color: purple;
+}
+

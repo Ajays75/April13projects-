@@ -1,0 +1,224 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+.dheecoding {
+
+    .start1 {
+        font-size: 15px;
+        text-transform: capitalize;
+
+        background-color: lightpink;
+        height: 185px;
+        align-items: center;
+
+        .start3 {
+            text-align: center;
+        }
+
+
+        .start4 {
+            display: flex;
+            border: 1px solid black;
+            border-radius: 50px;
+            justify-content: space-around;
+            margin-left: 100px;
+            margin-top: 50px;
+            width: 80%;
+            height: 80px;
+            align-items: center;
+
+            .firstdhee {
+                img {
+                    height: 50px;
+                }
+            }
+
+            .home {
+                display: flex;
+                gap: 50px;
+
+                a {
+                    text-decoration: none;
+                }
+            }
+
+
+            .num {
+                border: 1px solid black;
+                border-radius: 50px;
+                width: 15%;
+                height: 30px;
+                padding-top: 15px;
+                padding-left: 30px;
+            }
+        }
+    }
+
+    .second {
+
+        padding-top: 30px;
+        font-size: 30px;
+        text-align: center;
+
+        h1 {
+            padding-bottom: 19px;
+        }
+
+    }
+
+    .cont {
+        padding-top: 30px;
+        display: flex;
+
+        .name {
+            border: 1px solid black;
+            border-radius: 50px;
+            width: 45%;
+            height: 30px;
+            align-items: center;
+            margin-left: 180px;
+            padding: 19px;
+            background-color: antiquewhite;
+
+        }
+
+        .butn {
+            h1 {
+                background-color: azure;
+                padding: 30px;
+                padding-left: 80px;
+                margin-left: 50px;
+                font-size: 30px;
+                border: 1px solid black;
+                border-radius: 50px;
+                width: 80%;
+                height: 30px;
+
+            }
+        }
+
+    }
+
+    .oval {
+        display: flex;
+        justify-content: space-around;
+
+        .inter {
+
+            .inter1 {
+                margin: 30px;
+                width: 400px;
+                height: 150px;
+                padding-top: 30px;
+                align-items: center;
+                text-align: center;
+                border: 1px solid black;
+                border-radius: 50px;
+                background-color: aquamarine;
+                
+            }
+            img{
+                height: 650px;
+                width: 400px;
+                border-radius: 50px;
+            }
+        }
+    }
+
+    .success {
+        text-align: center;
+
+        p {
+            font-size: 30px;
+        }
+    }
+    .boximage{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 30px;
+       justify-content: center;
+        .list{
+            background-color: lightblue;
+            border: 1px solid black;
+          height: 259px;
+          width: 250px;
+          border-radius: 19px;
+          text-align: center;
+          text-transform: capitalize;
+      
+    
+        }
+        img{ padding-top: 30px;
+            height: 80px;
+            width: 80px;
+            border-radius: 80px;
+        }
+        h1{
+            padding-top: 30px;
+        }
+       
+        }
+    
+    
+    
+    
+    
+    .home1 {
+        border: 1px solid black;
+        margin-top: 30px;
+        margin-left: 100px;
+        border-radius: 50px;
+        width: 80%;
+        text-align: center;
+        display: flex;
+        gap: 30px;
+
+        /* justify-content: space-around; */
+        a {
+            text-decoration: none;
+            font-size: 35px;
+        }
+    }
+
+    .get {
+        font-size: 35px;
+        text-align: center;
+    }
+.di{
+    border-bottom: 5px solid black;
+}
+.animation{
+    display: flex;
+    .height1{
+
+    }
+
+}
+.boxborder{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+   justify-content: center;
+    .box{
+        background-color: rgb(223, 199, 217);
+        border: 1px solid black;
+      height: 259px;
+      width: 250px;
+      border-radius: 19px;
+      text-align: center;
+      text-transform: capitalize;
+  p{
+    padding-top: 150px;
+  }
+
+    }
+}
+
+
+
+
+
+
+}

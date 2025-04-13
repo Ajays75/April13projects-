@@ -1,0 +1,28 @@
+h5{
+    border-width: 5px;
+    border-style: dashed;
+    border-color: red;
+}
+p{
+    border-width: 10px;
+    border-style: solid;
+    border-color:rgb(7, 32, 54);
+}
+img{
+    border-width: 5px;
+    border-style: solid;
+    border-color: red;
+}
+ol{
+    li{
+        color:red;
+
+    }
+    #_bana{
+        color:blue
+}
+
+#ora{
+    color: green;
+}
+}

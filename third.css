@@ -1,0 +1,36 @@
+#n1{
+    color: red;
+   
+
+    text-transform: uppercase;
+    text-decoration: underline;
+
+    
+}
+
+
+#na{
+
+    border: 5px solid black;
+    width: 300px;
+    /* width:fit-content; */
+   
+    #n3{
+        color: purple;
+        /* text-align: center; */
+        text-decoration: underline;
+        background-color: yellow;
+    }
+    #im{
+        border: 5px solid yellow;
+          
+        width: 30%;
+        height: 100;
+    }
+}
+
+#card{
+    display: flex;
+    
+
+}

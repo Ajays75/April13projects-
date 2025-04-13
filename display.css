@@ -1,0 +1,54 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.kill{
+    
+.container{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    background-color: red;
+    height: 100px;
+    align-items: center;
+border-bottom: 1px solid black;
+
+    
+    .elements{
+        display: flex;
+        gap: 15px;
+    }
+.img1{
+
+    display: flex;
+    gap: 15px;
+    font-size: 45px;
+    border-radius: 5px;
+}
+
+    }
+    .lio{
+
+    text-align: end;
+   
+    }
+    img{ height: 300px;
+        border: 3px solid yellow;
+        margin-right: 15px;
+        margin-top: 15px;
+         border-radius: 50%;
+       box-shadow:  30px 30px rgb(160, 160, 136) ;
+       }
+    .content{
+        /* margin-top: 5px; */
+        padding-left: 300px;
+       font-size: 19px;
+       color: white;
+       display: flex;
+
+    }   
+
+    }
+    body{
+        background-color: red;
+    }
